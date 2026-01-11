@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Insurance Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="2Que.css">
+</head>
+<body class="bg-slate-50 text-slate-800">
+  <header class="p-4 bg-white shadow">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-bold">Hartford Insurance</h1>
+        <p class="text-sm text-slate-500">Protecting what matters — simple plans, fast support</p>
+      </div>
+      <nav class="hidden md:flex gap-4 text-sm text-slate-600">
+        <a href="#plans">Plans</a>
+        <a href="#form">Enquiry</a>
+        <a href="#customers">Customers</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto p-4 space-y-6">
+    
+    <section class="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
+      <article class="md:col-span-2 bg-white p-6 rounded shadow">
+        <h2 class="text-2xl font-semibold">Welcome to Agent Dashboard</h2>
+        <p class="text-sm text-slate-600 mt-2">View plans, enroll customers, and manage enquiries.</p>
+        <div class="mt-4">
+          <button id="ctaEnroll" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Create Enquiry</button>
+        </div>
+      </article>
+
+      <aside class="space-y-3">
+        <div class="bg-white p-4 rounded shadow flex justify-between">
+          <div>
+            <div class="text-sm text-slate-500">Customers</div>
+            <div id="statCustomers" class="text-xl font-bold">0</div>
+          </div>
+        </div>
+        <div class="bg-white p-4 rounded shadow flex justify-between">
+          <div>
+            <div class="text-sm text-slate-500">Policies</div>
+            <div id="statPolicies" class="text-xl font-bold">3</div>
+          </div>
+        </div>
+        <div class="bg-white p-4 rounded shadow flex justify-between">
+          <div>
+            <div class="text-sm text-slate-500">Total Premium</div>
+            <div id="statPremium" class="text-xl font-bold">₹0</div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="plans">
+      <h3 class="text-lg font-semibold mb-3">Insurance Plans</h3>
+      <div id="plansContainer" class="grid grid-cols-1 sm:grid-cols-3 gap-4"></div>
+    </section>
+
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <article id="form" class="bg-white p-4 rounded shadow">
+        <h4 class="font-semibold mb-2">Customer Enquiry Form</h4>
+        <form id="enquiryForm" class="space-y-3">
+          <div>
+            <label class="block">Name</label>
+            <input id="name" name="name" type="text" class="input" />
+            <div id="nameError" class="error"></div>
+          </div>
+          <div>
+            <label class="block">Age</label>
+            <input id="age" name="age" type="number" min="0" class="input" />
+            <div id="ageError" class="error"></div>
+          </div>
+          <div>
+            <label class="block">Email</label>
+            <input id="email" name="email" type="email" class="input" />
+            <div id="emailError" class="error"></div>
+          </div>
+          <div>
+            <label class="block">Policy Type</label>
+            <select id="policyType" class="input"></select>
+            <div id="policyError" class="error"></div>
+          </div>
+          <div>
+            <label class="block">Coverage (in Lakh) <span id="coverageValue">1</span>L</label>
+            <input id="coverage" type="range" min="1" max="10" value="1" class="w-full" />
+          </div>
+          <div>
+            <button type="submit" class="submit-btn">Submit Enquiry</button>
+          </div>
+        </form>
+      </article>
+
+      <article class="bg-white p-4 rounded shadow">
+        <div class="flex gap-2 mb-3">
+          <select id="filterPolicy" class="input w-1/2">
+            <option value="">All Policies</option>
+          </select>
+          <input id="searchName" placeholder="Search name..." class="input w-1/2" />
+        </div>
+
+        <h4 class="font-semibold mb-2">Customer List</h4>
+        <div class="overflow-auto">
+          <table class="min-w-full text-sm">
+            <thead class="text-left text-slate-600">
+              <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Policy</th>
+                <th>Coverage (L)</th>
+                <th>Premium (₹)</th>
+              </tr>
+            </thead>
+            <tbody id="customersTbody"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="text-center p-4 text-sm text-slate-500">© Hartford Insurance</footer>
+
+  <script src="2Que.js"></script>
+</body>
+</html>

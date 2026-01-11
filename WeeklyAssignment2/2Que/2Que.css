@@ -1,0 +1,12 @@
+
+.input{border:1px solid #cbd5e1;padding:.5rem;border-radius:.375rem}
+.error{color:#dc2626;font-size:.85rem;margin-top:.25rem}
+.submit-btn{background:#0b63b8;color:#fff;padding:.6rem;border-radius:.375rem;width:100%}
+.submit-btn:hover{background:#095aa0}
+table th,table td{padding:.5rem;border-bottom:1px solid #eef2f7}
+
+@media (max-width:640px){
+  table thead{display:none}
+  table tr{display:block;margin-bottom:.75rem}
+  table td{display:flex;justify-content:space-between}
+}
