@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #paymentSection {
+            background-color: #45a049;
+        }
+       
+    
+    </style>
+</head>
+
+<body>
+<div id="paymentSection">
+    <button id="payp">Pay Premium</button>
+</div>
+<div id="plans">
+<div class="policy-card" onclick="openPolicyDetails('Health')">
+  <h3>Health Insurance</h3>
+  <p>Coverage: ₹5,00,000</p>
+  <p>Premium: ₹3,000</p>
+
+  <button class="delete-btn" onclick="deletePolicy(event)">Delete</button>
+</div>
+
+<div class="policy-card" onclick="openPolicyDetails('Life')">
+  <h3>Life Insurance</h3>
+  <p>Coverage: ₹10,00,000</p>
+  <p>Premium: ₹5,000</p>
+
+  <button class="delete-btn" onclick="deletePolicy(event)">Delete</button>
+</div>
+
+</div>
+<div class="claim-row">
+  <span>Claim #1023 – Health Insurance</span>
+  <button class="approve-btn">Approve Claim</button>
+</div>
+
+<div class="claim-row">
+  <span >Claim #1024 – Vehicle Insurance </span>
+  <button class="approve-btn">Approve Claim</button>
+</div>
+
+    <script src="./scripts/script2.js"></script>
+</body>
+</html>
