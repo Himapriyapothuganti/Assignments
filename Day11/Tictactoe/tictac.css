@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4CAF50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 16px;
+}
+
+.game-wrapper {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.game-info {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.player-section,
+.status-section,
+.ai-section {
+    text-align: center;
+    padding: 15px;
+}
+
+.player-section h2,
+.status-section h2,
+.ai-section h2 {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+}
+
+.score,
+#gameStatus {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+#gameStatus {
+    font-size: 28px;
+}
+
+.status-detail {
+    font-size: 14px;
+    color: #999;
+    margin-top: 5px;
+}
+
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 30px;
+    background-color: #4CAF50;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.cell {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: #333;
+}
+
+.cell:hover {
+    background-color: #f0f0f0;
+}
+
+.cell.x {
+    color: #2196F3;
+}
+
+.cell.o {
+    color: #FF5722;
+}
+
+.game-controls {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    flex: 1;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-reset {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.btn-reset:hover {
+    background-color: #45a049;
+}
+
+.btn-restart {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 2px solid #4CAF50;
+}
+
+.btn-restart:hover {
+    background-color: #e0e0e0;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 28px;
+    }
+
+    .game-wrapper {
+        padding: 20px;
+    }
+
+    .cell {
+        height: 80px;
+        font-size: 32px;
+    }
+
+    .score,
+    #gameStatus {
+        font-size: 20px;
+    }
+
+    #gameStatus {
+        font-size: 22px;
+    }
+
+    .btn {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 400px) {
+    header h1 {
+        font-size: 24px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
+    .game-wrapper {
+        padding: 15px;
+    }
+
+    .game-info {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .player-section,
+    .status-section,
+    .ai-section {
+        padding: 8px;
+    }
+
+    .cell {
+        height: 70px;
+        font-size: 28px;
+    }
+
+    .game-board {
+        gap: 8px;
+        padding: 8px;
+    }
+}

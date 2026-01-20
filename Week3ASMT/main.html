@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Online Banking Dashboard</title>
+    <style>
+        table{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th,td{
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .controls{
+            margin: 10px 0;
+        }
+        form{
+            margin-top: 20px;
+        }
+        input,select{
+            margin-right: 5px;
+        }
+        .low-balance{
+            background-color: #ffe6e6;
+        }
+        .summary {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Bank Accounts Dashboard</h2>
+<button onclick="fetchAccounts()">Load Accounts</button>
+<button onclick="sortByBalance()">Sort by Balance (High → Low)</button>
+
+<!-- Loader & Error Message (Task 6) -->
+<div id="loader" style="display: none; font-weight: bold; margin: 10px 0;">
+    ⏳ Loading accounts... Please wait.
+</div>
+
+<div id="errorMessage" style="display: none; color: red; margin: 10px 0;">
+</div>
+
+<div class="controls">
+    <input 
+      type="text" 
+      id="searchInput" 
+      placeholder="Search by account holder name..." 
+      oninput="handleSearch()"
+    />
+
+    <select id="branchFilter" onchange="handleFilter()">
+        <option value="all">All Branches</option>
+    </select>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Account Number</th>
+            <th>Account Holder</th>
+            <th>Email</th>
+            <th>Branch</th>
+            <th>Balance (₹)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="accountsTable">
+        
+    </tbody>
+</table>
+
+<div class="summary">
+    Total Bank Balance: ₹<span id="totalBalance">0</span>
+</div>
+
+<h3>Create New Account</h3>
+<form id="createAccountForm" onsubmit="createAccount(event)">
+    <input type="text" id="newName" placeholder="Name" required />
+    <input type="email" id="newEmail" placeholder="Email" required />
+    <input type="text" id="newBranch" placeholder="Branch" required />
+    <button type="submit">Create Account</button>
+</form>
+
+<script src="./script.js"></script>
+</body>
+</html>
