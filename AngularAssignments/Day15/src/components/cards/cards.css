@@ -1,0 +1,38 @@
+.profile{
+    display:flex;
+    flex-direction: column;
+    gap:40px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0px;
+    background:rgb(244, 231, 214);
+
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+}
+.profile img{
+    width: 80px;
+    height: 80px;
+}
+.profile p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 5px;
+}
+.b{
+    width: 150px;
+    height: 150px;
+    background-color: white; 
+    border: 2px solid rgb(159, 21, 67);   
+    padding: 20px;           
+    margin: 30px;            
+    box-sizing: border-box; 
+    border-radius: 10px;      
+    box-shadow: 2px 2px 3px rgb(159, 21, 67); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

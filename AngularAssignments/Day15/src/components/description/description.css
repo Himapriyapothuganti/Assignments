@@ -1,0 +1,6 @@
+div{
+    text-align: center;
+    padding : 15px;
+    background-color: rgb(225, 214, 196);
+    box-shadow:0 4px 15px rgba(0, 0, 0, 0.1); 
+}
