@@ -1,0 +1,40 @@
+<h2 class="title">My Basic CRUD Operations</h2>
+
+<!-- FORM -->
+<div class="form-container">
+  <label>Name:</label>
+  <input type="text" [(ngModel)]="user.name" />
+
+  <label>Email:</label>
+  <input type="email" [(ngModel)]="user.email" />
+
+  <button (click)="saveUser()">
+    {{ isEditMode ? 'Update' : 'Add' }} User
+  </button>
+</div>
+
+<hr />
+
+<!-- LIST -->
+<table class="user-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    @for (u of users; track u.id) {
+      <tr>
+        <td>{{ u.name }}</td>
+        <td>{{ u.email }}</td>
+        <td>
+          <button class="edit-btn" (click)="editUser(u)">Edit</button>
+          <button class="delete-btn" (click)="deleteUser(u.id)">Delete</button>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>
