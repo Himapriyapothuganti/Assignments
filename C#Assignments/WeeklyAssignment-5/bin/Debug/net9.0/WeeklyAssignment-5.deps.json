@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WeeklyAssignment-5/1.0.0": {
+        "dependencies": {
+          "salarylib": "1.0.0"
+        },
+        "runtime": {
+          "WeeklyAssignment-5.dll": {}
+        }
+      },
+      "salarylib/1.0.0": {
+        "runtime": {
+          "salarylib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeeklyAssignment-5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "salarylib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
