@@ -1,0 +1,12 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\bin\Debug\net9.0\salarylib.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\bin\Debug\net9.0\salarylib.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\bin\Debug\net9.0\salarylib.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\refint\salarylib.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\salarylib.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\salarylib\obj\Debug\net9.0\ref\salarylib.dll
