@@ -1,0 +1,12 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\refint\InsuranceLibrary.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\Day5\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\ref\InsuranceLibrary.dll

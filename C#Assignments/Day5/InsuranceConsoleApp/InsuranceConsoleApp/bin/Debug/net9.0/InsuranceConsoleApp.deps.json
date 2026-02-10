@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InsuranceConsoleApp/1.0.0": {
+        "dependencies": {
+          "InsuranceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "InsuranceConsoleApp.dll": {}
+        }
+      },
+      "InsuranceLibrary/1.0.0": {
+        "runtime": {
+          "InsuranceLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsuranceConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsuranceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
