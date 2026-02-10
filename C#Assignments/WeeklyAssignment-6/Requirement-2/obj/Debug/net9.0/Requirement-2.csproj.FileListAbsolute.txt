@@ -1,0 +1,15 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\bin\Debug\net9.0\Requirement-2.exe
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\bin\Debug\net9.0\Requirement-2.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\bin\Debug\net9.0\Requirement-2.runtimeconfig.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\bin\Debug\net9.0\Requirement-2.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\bin\Debug\net9.0\Requirement-2.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\refint\Requirement-2.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\Requirement-2.genruntimeconfig.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-2\obj\Debug\net9.0\ref\Requirement-2.dll

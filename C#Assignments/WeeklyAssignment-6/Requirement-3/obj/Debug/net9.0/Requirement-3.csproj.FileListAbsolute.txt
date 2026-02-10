@@ -1,0 +1,15 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\bin\Debug\net9.0\Requirement-3.exe
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\bin\Debug\net9.0\Requirement-3.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\bin\Debug\net9.0\Requirement-3.runtimeconfig.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\bin\Debug\net9.0\Requirement-3.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\bin\Debug\net9.0\Requirement-3.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\refint\Requirement-3.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\Requirement-3.genruntimeconfig.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C#Assignments\WeeklyAssignment-6\Requirement-3\obj\Debug\net9.0\ref\Requirement-3.dll
