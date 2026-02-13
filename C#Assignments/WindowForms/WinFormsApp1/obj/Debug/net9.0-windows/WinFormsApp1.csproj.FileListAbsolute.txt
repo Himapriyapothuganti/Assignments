@@ -1,0 +1,17 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\C# Assignments_old\Day22\PracticeSolution\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
