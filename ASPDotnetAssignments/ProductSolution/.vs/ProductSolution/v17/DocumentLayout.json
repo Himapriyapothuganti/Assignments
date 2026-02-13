@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\dto\\productdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dto\\productdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\productsolution\\productsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B682CA-93FF-4899-9B05-2CA12B7ED791}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductsAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:24:07.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTO\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "ProductsAPI\\DTO\\ProductUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:17:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:08:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductsAPI\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:23:49.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTO\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductCreateDTO.cs",
+              "RelativeToolTip": "ProductsAPI\\DTO\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:16:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:12:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:08:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDeleteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductDeleteDTO.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTO\\ProductDeleteDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductDeleteDTO.cs",
+              "RelativeToolTip": "ProductsAPI\\DTO\\ProductDeleteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:16:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductReadDTO.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\DTO\\ProductReadDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\DTO\\ProductReadDTO.cs",
+              "RelativeToolTip": "ProductsAPI\\DTO\\ProductReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:18:05.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductsAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T05:19:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\ProductSolution\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T03:56:50.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
