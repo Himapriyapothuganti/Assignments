@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\empdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\empdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\empsqldemo\\empdemo\\migrations\\20260216093949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88513BD5-4CF3-444A-ABBD-A82703BF03DB}|EmpDemo\\EmpDemo.csproj|solutionrelative:empdemo\\migrations\\20260216093949_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "EmpDemo\\Controllers\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Controllers\\EmpsController.cs",
+              "RelativeToolTip": "EmpDemo\\Controllers\\EmpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:41:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EmpDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Program.cs",
+              "RelativeToolTip": "EmpDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:32:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\EmpDemo.csproj",
+              "RelativeDocumentMoniker": "EmpDemo\\EmpDemo.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\EmpDemo.csproj",
+              "RelativeToolTip": "EmpDemo\\EmpDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T09:23:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\appsettings.json",
+              "RelativeToolTip": "EmpDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T09:31:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "EmpDemo\\Models\\EmpDbContext.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "EmpDemo\\Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:21:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "EmpDemo\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Models\\Emp.cs",
+              "RelativeToolTip": "EmpDemo\\Models\\Emp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:22:15.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260216093949_initial.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Migrations\\20260216093949_initial.cs",
+              "RelativeDocumentMoniker": "EmpDemo\\Migrations\\20260216093949_initial.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\Empsqldemo\\EmpDemo\\Migrations\\20260216093949_initial.cs",
+              "RelativeToolTip": "EmpDemo\\Migrations\\20260216093949_initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T09:39:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
