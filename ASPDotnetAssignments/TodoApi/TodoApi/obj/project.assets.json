@@ -6273,11 +6273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\phima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

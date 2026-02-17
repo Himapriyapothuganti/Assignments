@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\migrations\\20260216145910_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\migrations\\20260216145910_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnet assignments\\weeklyassignment7-2\\restaurantapisql\\restaurantapisql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4192AAE5-91AF-4496-AC22-613C7E2F8A67}|RestaurantApiSql\\RestaurantApiSql.csproj|solutionrelative:restaurantapisql\\restaurantapisql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260216145910_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Migrations\\20260216145910_Initial.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Migrations\\20260216145910_Initial.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Migrations\\20260216145910_Initial.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Migrations\\20260216145910_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:59:11.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:56:38.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:55:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Program.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:49:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\appsettings.json",
+              "RelativeToolTip": "RestaurantApiSql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T14:51:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:44:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantApiSql",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\RestaurantApiSql.csproj",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\RestaurantApiSql.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\RestaurantApiSql.csproj",
+              "RelativeToolTip": "RestaurantApiSql\\RestaurantApiSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T14:44:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Models\\RestaurantContext.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\RestaurantContext.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Models\\RestaurantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:44:34.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RestaurantApiSql\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnet Assignments\\WeeklyAssignment7-2\\RestaurantApiSql\\Models\\Category.cs",
+              "RelativeToolTip": "RestaurantApiSql\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T14:43:50.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
