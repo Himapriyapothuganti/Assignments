@@ -32,6 +32,9 @@ namespace TodoApi
                 app.UseSwaggerUI();
             }
 
+
+
+
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
