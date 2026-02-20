@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmployeeDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\employeebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\employeebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\employeebackend\\employeebackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE35E4A8-4652-415F-9AD5-FB3529DE6C54}|EmployeeBackend\\EmployeeBackend.csproj|solutionrelative:employeebackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmployeeDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-20T06:56:42.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmployeeBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:45:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Program.cs*",
+              "RelativeToolTip": "EmployeeBackend\\Program.cs*",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAQwKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:22:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeBackend\\Models\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:32:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:53:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\DTOs\\AuthDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "EmployeeBackend\\DTOs\\AuthDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:52:59.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\appsettings.json",
+              "RelativeToolTip": "EmployeeBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T10:21:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeBackend\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:45:26.221Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "EmployeeBackend\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:57:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Services\\JWTService.cs",
+              "RelativeToolTip": "EmployeeBackend\\Services\\JWTService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:48:32.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeBackend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T11:44:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\EmployeeBackend.csproj",
+              "RelativeDocumentMoniker": "EmployeeBackend\\EmployeeBackend.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\EmployeeBackend.csproj",
+              "RelativeToolTip": "EmployeeBackend\\EmployeeBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T10:19:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeBackend\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\EmployeeBackend\\EmployeeBackend\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeBackend\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:19:46.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
