@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\controllers\\checkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\checkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\models\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\models\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\jwtdemo\\jwtdemo\\jwtdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10CD8034-1D7D-4009-93A9-D2A57B4C0B40}|JWTDemo\\JWTDemo.csproj|solutionrelative:jwtdemo\\jwtdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Controllers\\CheckController.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\CheckController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Controllers\\CheckController.cs*",
+              "RelativeToolTip": "JWTDemo\\Controllers\\CheckController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:31:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\appsettings.json*",
+              "RelativeToolTip": "JWTDemo\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T04:21:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Program.cs*",
+              "RelativeToolTip": "JWTDemo\\Program.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:27:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Models\\AuthContext.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Models\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Models\\AuthContext.cs",
+              "RelativeToolTip": "JWTDemo\\Models\\AuthContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:27:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "JWTDemo\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:26:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JWTDemo\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "JWTDemo\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:25:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+              "RelativeDocumentMoniker": "JWTDemo\\JWTDemo.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\JWTDemo\\JWTDemo\\JWTDemo.csproj",
+              "RelativeToolTip": "JWTDemo\\JWTDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T10:23:05.039Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
