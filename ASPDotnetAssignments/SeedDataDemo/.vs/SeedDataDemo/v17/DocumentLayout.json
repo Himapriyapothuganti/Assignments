@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\migrations\\20260217063134_seedingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\migrations\\20260217063134_seedingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|c:\\users\\phima\\onedrive\\desktop\\aspdotnet assignments\\seeddatademo\\seeddatademo\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBA26B4-3AB2-47B6-895F-0D3BE4E3D22D}|SeedDataDemo\\SeedDataDemo.csproj|solutionrelative:seeddatademo\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260217063134_SeedingDemo.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Migrations\\20260217063134_SeedingDemo.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Migrations\\20260217063134_SeedingDemo.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Migrations\\20260217063134_SeedingDemo.cs",
+              "RelativeToolTip": "SeedDataDemo\\Migrations\\20260217063134_SeedingDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:31:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260217062643_SeedingDemo.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs",
+              "RelativeToolTip": "SeedDataDemo\\Migrations\\20260217062643_SeedingDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:26:43.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "SeedDataDemo\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:18:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Program.cs",
+              "RelativeToolTip": "SeedDataDemo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:25:46.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SeedDataDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\appsettings.json",
+              "RelativeToolTip": "SeedDataDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T17:24:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\Country.cs",
+              "RelativeToolTip": "SeedDataDemo\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T16:40:01.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\City.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\City.cs",
+              "RelativeToolTip": "SeedDataDemo\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T16:47:46.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\State.cs",
+              "RelativeDocumentMoniker": "SeedDataDemo\\Models\\State.cs",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\ASPDotnet Assignments\\SeedDataDemo\\SeedDataDemo\\Models\\State.cs",
+              "RelativeToolTip": "SeedDataDemo\\Models\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T16:42:06.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
