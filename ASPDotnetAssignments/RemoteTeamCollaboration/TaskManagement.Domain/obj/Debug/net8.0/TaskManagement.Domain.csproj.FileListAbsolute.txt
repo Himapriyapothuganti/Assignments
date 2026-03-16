@@ -1,0 +1,12 @@
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.sourcelink.json
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\phima\OneDrive\Desktop\Assignments\ASPDotnetAssignments\RemoteTeamCollaboration\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll

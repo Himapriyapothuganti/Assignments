@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Authentication.API\\Authentication.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NotificationService.API\\NotificationService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TaskManagement.API\\TaskManagement.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

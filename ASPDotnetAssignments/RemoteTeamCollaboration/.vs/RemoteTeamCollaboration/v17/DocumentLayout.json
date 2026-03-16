@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17881F3E-3066-4DBD-A62F-27205BC13C9D}|Authentication.API\\Authentication.API.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\authentication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17881F3E-3066-4DBD-A62F-27205BC13C9D}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0685894-A5AA-4319-A6B9-8E2DF8AFEEE1}|NotificationService.API\\NotificationService.API.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\notificationservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0685894-A5AA-4319-A6B9-8E2DF8AFEEE1}|NotificationService.API\\NotificationService.API.csproj|solutionrelative:notificationservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334CBC3F-E082-49F3-B8F1-D13A78145498}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\taskmanagement.infrastructure\\taskmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{334CBC3F-E082-49F3-B8F1-D13A78145498}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\taskmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E6E771-F774-410A-99A8-42C47F1C5750}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\taskmanagement.application\\taskmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93E6E771-F774-410A-99A8-42C47F1C5750}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\taskmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390C4916-DD39-4CB0-9FE4-4616F8B03B43}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\taskmanagement.api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{390C4916-DD39-4CB0-9FE4-4616F8B03B43}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F907AC5-03AA-45BA-9041-0EE164A01B7D}|NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\notificationservice.infrastructure\\notificationservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F907AC5-03AA-45BA-9041-0EE164A01B7D}|NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|solutionrelative:notificationservice.infrastructure\\notificationservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5280C1-03FB-40DE-922D-0035FAC78160}|NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\notificationservice.application\\notificationservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E5280C1-03FB-40DE-922D-0035FAC78160}|NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:notificationservice.application\\notificationservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0685894-A5AA-4319-A6B9-8E2DF8AFEEE1}|NotificationService.API\\NotificationService.API.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\notificationservice.api\\notificationservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0685894-A5AA-4319-A6B9-8E2DF8AFEEE1}|NotificationService.API\\NotificationService.API.csproj|solutionrelative:notificationservice.api\\notificationservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96331A6-BA34-4793-85FC-699F9F544FF8}|Authentication.Infrastructure\\Authentication.Infrastructure.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\authentication.infrastructure\\authentication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A96331A6-BA34-4793-85FC-699F9F544FF8}|Authentication.Infrastructure\\Authentication.Infrastructure.csproj|solutionrelative:authentication.infrastructure\\authentication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A7AAF-7C68-48F7-A87C-2FA0A162C75E}|Authentication.Application\\Authentication.Application.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\authentication.application\\authentication.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{722A7AAF-7C68-48F7-A87C-2FA0A162C75E}|Authentication.Application\\Authentication.Application.csproj|solutionrelative:authentication.application\\authentication.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17881F3E-3066-4DBD-A62F-27205BC13C9D}|Authentication.API\\Authentication.API.csproj|c:\\users\\phima\\onedrive\\desktop\\assignments\\aspdotnetassignments\\remoteteamcollaboration\\authentication.api\\authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17881F3E-3066-4DBD-A62F-27205BC13C9D}|Authentication.API\\Authentication.API.csproj|solutionrelative:authentication.api\\authentication.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.API\\appsettings.json",
+              "RelativeToolTip": "Authentication.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T09:32:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.API\\appsettings.json",
+              "RelativeToolTip": "NotificationService.API\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T09:32:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManagement.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:24:11.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManagement.Application",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.Application\\TaskManagement.Application.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\TaskManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.Application\\TaskManagement.Application.csproj",
+              "RelativeToolTip": "TaskManagement.Application\\TaskManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:23:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManagement.API",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.API\\TaskManagement.API.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.API\\TaskManagement.API.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\TaskManagement.API\\TaskManagement.API.csproj",
+              "RelativeToolTip": "TaskManagement.API\\TaskManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:22:56.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "RelativeToolTip": "NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:22:33.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.Application",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.Application\\NotificationService.Application.csproj",
+              "RelativeDocumentMoniker": "NotificationService.Application\\NotificationService.Application.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.Application\\NotificationService.Application.csproj",
+              "RelativeToolTip": "NotificationService.Application\\NotificationService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:22:03.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.API",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.API\\NotificationService.API.csproj",
+              "RelativeDocumentMoniker": "NotificationService.API\\NotificationService.API.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\NotificationService.API\\NotificationService.API.csproj",
+              "RelativeToolTip": "NotificationService.API\\NotificationService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T08:21:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Authentication.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+              "RelativeToolTip": "Authentication.Infrastructure\\Authentication.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T07:27:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authentication.Application",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.Application\\Authentication.Application.csproj",
+              "RelativeDocumentMoniker": "Authentication.Application\\Authentication.Application.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.Application\\Authentication.Application.csproj",
+              "RelativeToolTip": "Authentication.Application\\Authentication.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T07:26:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authentication.API",
+              "DocumentMoniker": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.API\\Authentication.API.csproj",
+              "RelativeDocumentMoniker": "Authentication.API\\Authentication.API.csproj",
+              "ToolTip": "C:\\Users\\phima\\OneDrive\\Desktop\\Assignments\\ASPDotnetAssignments\\RemoteTeamCollaboration\\Authentication.API\\Authentication.API.csproj",
+              "RelativeToolTip": "Authentication.API\\Authentication.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T07:25:53.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
